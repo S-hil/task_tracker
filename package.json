@@ -1,0 +1,30 @@
+{
+  "name": "task_tracker",
+  "version": "1.0.0",
+  "description": "Task tracker web app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "nodemon": "^1.14.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-hil/task_tracker.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-hil/task_tracker/issues"
+  },
+  "homepage": "https://github.com/S-hil/task_tracker#readme"
+}
